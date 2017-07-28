@@ -1,7 +1,8 @@
-NekoCal
+HikariCal
 =======
 
-![Photo](https://www.zephray.com/lib/exe/fetch.php?media=blog:2016:dsc04681_small.jpg "Photograph of Rev.2")
+This project is based on NekoCal by ZephRay.
+https://github.com/nbzwt/NekoCal
 
 ## Overview
 
@@ -9,7 +10,7 @@ A simple calendar using EPD as main display based on STM32 microcontroller.
 
 ## Project status
 
-Finished second revision. Third revision temporarily suspended
+Enhancement of shell.
 
 ## Hardware
 
@@ -44,6 +45,10 @@ MIT
 
 ### Contact me
 
-Webstie: http://www.zephray.com
-
+Original Author:
+Website: http://zephray.cnvintage.org/
 Email: i@zephray.com or zephray@outlook.com
+
+Me:
+Website: https://www.hikaricalyx.com/
+Email: hikaricalyx@hikaricalyx.com
